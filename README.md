@@ -79,3 +79,13 @@ This  course on React Router v6 teaches routing essentials for React application
           -The lesson focused on fixing navigation issues within a React application. This included changing buttons to links and ensuring proper routing between pages.
           -Users learned to implement a button that correctly directs to the user details page. This involved using the navigate function and adjusting component properties accordingly.
           -The need for creating a repo detail page was highlighted. Participants were guided through integrating parameters in routes for enhanced navigation functionality.
+
+
+
+
+
+https://github.com/user-attachments/assets/c1f42fb1-6e1b-41dc-a89f-76b89da3ccfa
+
+
+
+
